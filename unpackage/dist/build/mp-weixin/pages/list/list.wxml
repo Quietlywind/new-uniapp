@@ -1,0 +1,1 @@
+<view class="content">{{''+ceshi+''}}<view><text>{{longitude}}</text><text>{{latitude}}</text></view></view>
