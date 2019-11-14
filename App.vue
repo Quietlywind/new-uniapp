@@ -2,7 +2,7 @@
 import Vue from 'vue'
 	export default {
 		onLaunch: function() {
-			console.log('App Launch')
+			// console.log('App Launch')
 			uni.getSystemInfo({
 				success: function(e) {
 					// #ifndef MP
